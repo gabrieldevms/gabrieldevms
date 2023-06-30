@@ -1,7 +1,7 @@
 # Gabriel Moreira - Desenvolvedor Web Front-end
 
 ## Olá! 👋
-## Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web bonitas, dinâmicas e escaláveis.  Tenho experiência e conhecimento nas seguintes tecnologias:
+## Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web maneiras, dinâmicas e escaláveis.  Tenho também experiência em Testes/Qualidade de Software(QA) e domínio das seguintes tecnologias:
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> |
 | ------- | ------- | ------- | ------- |
