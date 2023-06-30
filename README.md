@@ -3,10 +3,10 @@
 ## Olá! 👋
 ## Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web bonitas, dinâmicas e escaláveis. ## Tenho experiência e conhecimento nas seguintes tecnologias:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> JavaScript/TypeScript<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/> React<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30" height="30"/> Bootstrap<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/> Node.js<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
 <!--# Projetos e Contribuições
 Ao longo da minha trajetória aprendendo a desenvolver, trabalhei em diversos projetos interessantes e fiz algumas contribuições para a comunidade de desenvolvimento. Alguns dos meus destaques incluem:
