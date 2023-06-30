@@ -1,12 +1,12 @@
-### Gabriel Moreira - Desenvolvedor Web Front-end
+# Gabriel Moreira - Desenvolvedor Web Front-end
 
 ## Olá! 👋
 ## Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web bonitas, dinâmicas e escaláveis. ## Tenho experiência e conhecimento nas seguintes tecnologias:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript/TypeScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="20" height="20"/> React
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20" height="20"/> Bootstrap
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20"/> Node.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> JavaScript/TypeScript<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/> React<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30" height="30"/> Bootstrap<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/> Node.js<br>
 
 <!--# Projetos e Contribuições
 Ao longo da minha trajetória aprendendo a desenvolver, trabalhei em diversos projetos interessantes e fiz algumas contribuições para a comunidade de desenvolvimento. Alguns dos meus destaques incluem:
@@ -17,10 +17,10 @@ Contribuição 1: Contribuição feita para um projeto de código aberto.
 Contribuição 2: Contribuição feita para outro projeto de código aberto.
 Sinta-se à vontade para explorar esses projetos e contribuições. Eles demonstram minha habilidade de trabalhar em equipe, resolver problemas e desenvolver soluções de alta qualidade.-->
 
-# Contato:
+### Contato:
 Se você tem interesse em colaborar em projetos, compartilhar ideias ou simplesmente bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar nas seguintes plataformas:
 
-[LinkedIn: Gabriel Moreira](https://www.linkedin.com/in/gabrielmsdev/)
+[LinkedIn: Gabriel Moreira](https://www.linkedin.com/in/gabrielmsdev/)<br>
 Email: gabrielms.cec@gmail.com
 
 Será um prazer trocar experiências e conhecimento com você. Vamos criar algo incrível juntos!
