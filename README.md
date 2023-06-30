@@ -26,4 +26,4 @@ Se você tem interesse em colaborar em projetos, compartilhar ideias ou simplesm
 [LinkedIn: Gabriel Moreira](https://www.linkedin.com/in/gabrielmsdev/)<br>
 Email: gabrielms.cec@gmail.com
 
-Será um prazer trocar experiências e conhecimento com você. Vamos criar algo incrível juntos!
+Será um prazer trocar experiências e conhecimento com você. Bora criar algo incrível juntos!
