@@ -1,29 +1,24 @@
-# Gabriel Moreira - Desenvolvedor Web Front-end
+# Olá! :vulcan_salute:
 
-## Olá! 👋
-## Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web maneiras, dinâmicas e escaláveis.  Tenho também uma pequena experiência em Testes/Qualidade de Software(QA).
-## Trabalho com as tecnologias:
+Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web maneiras, dinâmicas e escaláveis.  Tenho também possuo experiência em Testes/Qualidade de Software(QA).
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> |
-| ------- | ------- | ------- | ------- |
-| Linux   | JavaScript | React   | Node.js |
+## 👉 Para me encontrar:
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creme.ms/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmsdev/)
+<a href="mailto:gabrielms.cec@gmail.com">
+<img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
+</a>
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> -->
+## ⌨️ Hard Skills:
 
-<!--# Projetos e Contribuições
-Ao longo da minha trajetória aprendendo a desenvolver, trabalhei em diversos projetos interessantes e fiz algumas contribuições para a comunidade de desenvolvimento. Alguns dos meus destaques incluem:
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Projeto 1: Uma descrição breve do projeto 1.
-Projeto 2: Uma descrição breve do projeto 2.
-Contribuição 1: Contribuição feita para um projeto de código aberto.
-Contribuição 2: Contribuição feita para outro projeto de código aberto.
-Sinta-se à vontade para explorar esses projetos e contribuições. Eles demonstram minha habilidade de trabalhar em equipe, resolver problemas e desenvolver soluções de alta qualidade.-->
+> Se você tem interesse em colaborar em projetos, compartilhar ideias ou simplesmente bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato comigo.
 
-### Contato:
-Se você tem interesse em colaborar em projetos, compartilhar ideias ou simplesmente bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar nas seguintes plataformas:
-
-[LinkedIn: Gabriel Moreira](https://www.linkedin.com/in/gabrielmsdev/)<br>
-Email: gabrielms.cec@gmail.com
-
-Será um prazer trocar experiências e conhecimento com você. Bora criar algo incrível juntos!
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldevms&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
