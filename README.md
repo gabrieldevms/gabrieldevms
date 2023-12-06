@@ -1,6 +1,6 @@
 # Olá! :vulcan_salute:
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web maneiras, dinâmicas e escaláveis.  Tenho também possuo experiência em Testes/Qualidade de Software(QA).
+Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor web front-end apaixonado por criar páginas web maneiras, dinâmicas e escaláveis.  Tenho também experiência em Testes/Qualidade de Software(QA).
 
 ## 👉 Para me encontrar:
 
