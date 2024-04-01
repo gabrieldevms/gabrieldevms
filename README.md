@@ -1,6 +1,6 @@
 # Olá! :vulcan_salute:
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor de software front-end me aperfeiçoando em criar aplicações web maneiras, dinâmicas e escaláveis.  Tenho também experiência em Testes/Qualidade de Software(QA).
+Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor de software <strong>Back-end</strong> me aperfeiçoando em criar códigos robustos, limpos, escaláveis e seguros, dominando o uso de bancos de dados, a construção de APIs com testes automatizados. Tenho também experiência em Testes/Qualidade de Software(QA).
 
 ## 👉 Para me encontrar:
 
@@ -12,8 +12,8 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor de
 
 ## ⌨️ Hard Skills:
 
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white&color=4a4a4a)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
