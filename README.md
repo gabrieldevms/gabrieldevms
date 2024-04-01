@@ -18,6 +18,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor de
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 > Se você tem interesse em colaborar em projetos, compartilhar ideias ou simplesmente bater um papo sobre desenvolvimento web, sinta-se à vontade para entrar em contato comigo.
 
