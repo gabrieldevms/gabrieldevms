@@ -1,6 +1,7 @@
 # Olá! :vulcan_salute:
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um desenvolvedor focado principalmente no <strong>Back-end</strong>. Com objetivo de criar aplicações com códigos robustos, limpos e escaláveis, buscando constantemente aprimorar minhas habilidades. Me aperfeiçoando no desenvolvimento de APIs, garantindo sua segurança e eficiência, domínio do uso de bancos de dados para atender às necessidades de diferentes projetos e escrita de testes automatizados para garantir a qualidade e a confiabilidade do código que produzo. Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meu conhecimento em desenvolvimento de software.
+Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um analista de testes de software e desenvolvedor curioso.
+Atualmente me dedicando ao domínio de testes automatizados.
 
 ## 👉 Para me encontrar:
 
