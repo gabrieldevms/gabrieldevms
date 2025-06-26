@@ -1,6 +1,6 @@
 # Olá! :vulcan_salute:
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, um analista de testes de software e desenvolvedor curioso.
+Bem-vindo(a) ao meu perfil do GitHub! Sou o Gabriel Moreira, QA Engineer.
 Atualmente me dedicando ao domínio de testes automatizados.
 
 ## 👉 Para me encontrar:
@@ -17,7 +17,6 @@ Atualmente me dedicando ao domínio de testes automatizados.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
